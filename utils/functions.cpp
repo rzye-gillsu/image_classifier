@@ -1,3 +1,6 @@
+// written by <Rzye>
+// contact: <rzyekarami@gmail.com>
+
 #include "functions.hpp"
 
 // This function extract 32 numbers from the matrix -img- and add each 32 nums to each of the rows of matrix -matrix-.
