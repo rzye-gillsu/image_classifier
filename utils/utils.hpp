@@ -5,11 +5,14 @@
 #define IMAGE_BUFFER_SIZE 784
 
 #include <iostream>
+#include <string>
 #include <iomanip>
 #include <filesystem>
 #include <cmath>
 #include <fstream>
+#include <algorithm>
+#include <vector>
 
 void load_image(std::string, int, float[IMAGE_SIZE][IMAGE_SIZE]);
-std::string interpolation(std::string, std::string, std::string);
+std::string interpolation(std::string, std::string, int);
 int file_count(std::string);

@@ -25,8 +25,9 @@ void load_image(std::string image_path, int index, float image[IMAGE_SIZE][IMAGE
     }
 }
 
-std::string interpolation(std::string root, std::string type, std::string class_name)
+std::string interpolation(std::string root, std::string type, int ClassName)
 {
+    std::string class_name = std::to_string(ClassName);
     std::string path = "";
 
     path.append(root);
