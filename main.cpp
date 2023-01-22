@@ -1,3 +1,6 @@
+// written by <Rzye>
+// contact: <rzyekarami@gmail.com>
+
 #include <iostream>
 #include <string>
 #include <unistd.h>
