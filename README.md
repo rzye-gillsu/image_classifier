@@ -143,6 +143,4 @@ There are totally 60,000 images to train the algorithm and 10,000 images to test
 
 Note that you can use [this link](https://colab.research.google.com/drive/1u8KlFWUxxSCBtnefj61L_t4H0AP2U_K8?usp=sharing) to explore the datasets.
 
-Authors:
- <pooriaazami>
- <rzye-gillsu>
+Author: pooriaazami
